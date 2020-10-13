@@ -1,5 +1,6 @@
 # DataAdder
 This is an application developed in LAP 2019 by one of the student teams. This is their README.
+For more related docs, see the wiki page of this project.
 
 Team No.4
 - 	Dheeraj		B17041
